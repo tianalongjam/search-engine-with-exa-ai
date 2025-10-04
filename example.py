@@ -1,7 +1,7 @@
 from exa_py import Exa
 
 
-exa = Exa('a2e035a2-d6dd-4860-9202-8df13b04f2b6')
+exa = Exa('----')
 
 # query = input('Search here: ')
 

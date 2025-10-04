@@ -23,7 +23,7 @@ class BiasDiversityCheck():
             self.page = page
             self.target = target
             self.list = list()
-            self.exa = Exa('a2e035a2-d6dd-4860-9202-8df13b04f2b6')
+            self.exa = Exa('----')
             self.df = pd.DataFrame()
 
     
